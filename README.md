@@ -6,4 +6,5 @@
 1. JavaScript
 2. C++
 3. Python
+4. Bash (& JS for speed run)
 
